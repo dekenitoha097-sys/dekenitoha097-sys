@@ -1,4 +1,4 @@
-<img width="4192" height="1024" alt="baniére linkedin" src="https://github.com/user-attachments/assets/9943c7ed-dabe-400e-bf00-ca84b2efa85c" />
+<img width="4192" height="1024" alt="baniére linkedin" src="" />
 
 # Dekenitoha  
 **Étudiant en Informatique & IA | Futur Spécialiste en Cybersécurité | Passionné par les Systèmes & le Bas Niveau**
