@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Étudiant+en+Informatique+%26+Intelligence+Artificielle;Architecte+de+solutions+Full+Stack;Explorateur+du+Machine+Learning;Builder+de+projets+concrets+et+utiles;HESTIM+Casablanca+·+Promo+2027" alt="Typing" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C3%89tudiant+en+Informatique+%26+IA+%C3%A0+HESTIM;%C3%89tudiant+en+Informatique+%26+IA+%C3%A0+HESTIM;Passionn%C3%A9+par+l%E2%80%99Intelligence+Artificielle)](https://git.io/typing-svg)
 
 <br/>
 
